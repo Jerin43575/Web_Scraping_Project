@@ -1,0 +1,10 @@
+## How to Run
+
+### Requirements:
+- Python 3.x
+- Google Chrome installed
+
+### Install dependencies:
+```bash
+pip install selenium
+pip install webdriver-manager
